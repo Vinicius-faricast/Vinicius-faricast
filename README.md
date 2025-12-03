@@ -6,7 +6,7 @@
  
  -Bacharelado em Design
  
- -Atualmente cursando trilha FullStack MaisPraTi
+ -Desenvolvedor FullStack pela MaisPraTi
 
  </div>
 
